@@ -5,11 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>UnicoreSoftwareSolutions.Base.Business</PackageId>
+    <PackageId>UnicoreSoftwareSolutions.Base.Extension</PackageId>
     <Version>1.0.0</Version>
     <Authors>Unicore Software Solutions</Authors>
-    <Product>USS.Base.Business</Product>
-    <RepositoryUrl>https://github.com/unicoresoftwaresolutions/USS.Base.Business</RepositoryUrl>
+    <Product>USS.Base.Extension</Product>
+    <RepositoryUrl>https://github.com/unicoresoftwaresolutions/USS.Base.Extension</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <WebPage>https://unicoresoftwaresolutions.com/</WebPage>
